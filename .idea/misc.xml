@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/drawable/auto_reset_btn_ui.xml" value="0.49" />
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/drawable/back_btn_ui.xml" value="0.49" />
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/drawable/choice_btn_bg.xml" value="0.3095" />
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/drawable/custom_btn.xml" value="0.39" />
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/drawable/custom_game_ui.xml" value="0.4115" />
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/drawable/custom_settings.xml" value="0.49" />
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/drawable/custome_message.xml" value="0.422" />
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/drawable/deactivate_btn.xml" value="0.2765" />
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/drawable/gradient_center.xml" value="0.138" />
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/drawable/restart.xml" value="0.2835" />
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/drawable/score_panel.xml" value="0.3095" />
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/drawable/start_ui_bg.xml" value="0.4115" />
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/drawable/welcome_.xml" value="0.239" />
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/font/poppins.xml" value="0.13518518518518519" />
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/layout-land/activity_game_ui.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/layout-land/activity_start.xml" value="0.4651675485008818" />
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/layout/activity_game_ui.xml" value="0.36018518518518516" />
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/layout/activity_main.xml" value="0.3482789855072464" />
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/layout/activity_settings.xml" value="0.5348958333333333" />
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/layout/activity_start.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/menu/menu.xml" value="0.2759259259259259" />
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.211" />
+        <entry key="..\:/Users/oxnoe/Desktop/Koltin/TicTacTieUI/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.211" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
